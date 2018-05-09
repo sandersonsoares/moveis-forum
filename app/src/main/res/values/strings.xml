@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="autor">Leonardo</string>
+    <string name="home">Boa noite!</string>
+    <string name="add_categoria">Adicionar Categoria</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="listar_categorias">Listar Categorias</string>
+    <string name="titulo">Titulo</string>
+    <string name="lb_autor">Autor</string>
+    <string name="descricao">Descrição</string>
+    <string name="categoria">Categoria</string>
+</resources>
