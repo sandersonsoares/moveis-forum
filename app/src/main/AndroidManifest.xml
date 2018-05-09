@@ -18,7 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activities.CategoriasActivity"></activity>
+        <activity android:name=".activities.TopicosActivity"></activity>
+        <activity android:name=".activities.ComentariosActivity"></activity>
         <activity android:name=".activities.AddCategoriaActivity"></activity>
+        <activity android:name=".activities.AddTopicoActivity"></activity>
+        <activity android:name=".activities.AddComentarioActivity"></activity>
     </application>
 
 </manifest>
